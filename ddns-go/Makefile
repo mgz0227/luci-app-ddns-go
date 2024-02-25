@@ -8,7 +8,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=ddns-go
-KG_VERSION:=6.1.1
+KG_VERSION:=6.1.2
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
