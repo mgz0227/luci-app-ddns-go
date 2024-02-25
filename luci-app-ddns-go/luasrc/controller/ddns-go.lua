@@ -1,4 +1,4 @@
--- Copyright (C) 2021-2022  sirpdboy  <herboy2008@gmail.com> https://github.com/sirpdboy/luci-app-ddns-go
+-- Copyright (C) 2021-2022  mgz0227  <herboy2008@gmail.com> https://github.com/mgz0227/luci-app-ddns-go
 -- Licensed to the public under the Apache License 2.0.
 
 module("luci.controller.ddns-go", package.seeall)
