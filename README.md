@@ -72,7 +72,7 @@ luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对
 
  ```Brach 
     # 编译固件
-    make package/ddns-go/luci-app-ddns-go/compile V=s
+    make package/ddns-go/ddns-go/compile V=s
  ```
 
 ## 说明
